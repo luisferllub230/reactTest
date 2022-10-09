@@ -1,0 +1,28 @@
+.homepage-title--alt2 {
+    font-size: 1.8em;
+    margin: 0.2em 0px 0.6em;
+    color: #F9557A; 
+}
+.color-langues {
+    color: #D43B3B;
+}
+h2 {
+    font-size: 20px;
+    font-family: "Montserrat",sans-serif;
+    text-transform: uppercase;
+}
+.homepage-descrip {
+    font-size: 1.2em;
+    line-height: 1.5em;
+    color: #666;
+    font-style: italic;
+    margin: 0px 0px 4em;
+}
+p {
+    font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+    color: #444;
+}
+#section-apprendre {
+    margin: 20px;
+    padding-top: 2em;
+}
